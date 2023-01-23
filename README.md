@@ -1,3 +1,9 @@
+<div align="right">
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e3c52228-d2d0-4ecd-a86e-d5663fc30ca7/deploy-status)](https://app.netlify.com/sites/nimble-belekoy-bab69c/deploys)
+
+</div>
+
 <h1 align="center"> React Challenge 01 </h1>
 
 <p align="center" style="font-size: 18px;">O desafio foi proposto pelo Fernando Ferrari do canal do Youtube <a href="https://www.youtube.com/@fernandev1/">@Fernandev</a> e esse é o primeiro desafio da série “Desafio ReactJs de entrevista” .
@@ -44,7 +50,7 @@
 </p>
 <br/>
 <p style="font-size: 18px;" align="center">
-    <a href="https://nimble-belekoy-bab69c.netlify.app">🖥️ Acesso o projeto publicado 🖥️</a>
+    <a href="https://nimble-belekoy-bab69c.netlify.app">O deploy foi efetuado no Netlify e você pode acessa-lo clicando aqui 🖥️</a>
 </p>
 
 ## :memo: Licença
