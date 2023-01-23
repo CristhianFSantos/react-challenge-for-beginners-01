@@ -1,0 +1,19 @@
+@import "../../../sass/colors";
+@import "../../../sass/mixins";
+
+$size-circle: 10px;
+
+.panel {
+  @include full-size();
+  background-color: $general-color-white;
+  position: relative;
+  cursor: pointer;
+}
+
+.circle {
+  height: $size-circle;
+  width: $size-circle;
+  border-radius: 50%;
+  background-color: $button-primary-color-indigo;
+  position: absolute;
+}
