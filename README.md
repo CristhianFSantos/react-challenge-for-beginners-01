@@ -7,13 +7,9 @@
 <strong>
 <a href="https://www.youtube.com/watch?v=qmZLWBOOfVQ&t=1247s">Vídeo do desafio</a>
 </strong>
+<a style="font-size: 22px;" href="https://www.youtube.com/embed/qmZLWBOOfVQ?controls=0"> ▶️ </a>
 </p>
 
-<div align="center" >
-<iframe width="460" height="215" src="https://www.youtube.com/embed/qmZLWBOOfVQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-<br/>
 <br/>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
