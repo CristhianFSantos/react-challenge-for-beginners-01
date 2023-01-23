@@ -1,0 +1,14 @@
+@import "../sass/mixins";
+@import "../sass/colors";
+
+.App {
+  width: 100%;
+  height: calc(100vh - 60px);
+}
+
+.button-container {
+  @include flex-center();
+  justify-content: space-evenly;
+  padding: 10px;
+  gap: 20px;
+}
