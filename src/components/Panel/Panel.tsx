@@ -2,7 +2,7 @@ import React from "react";
 import "./styles.scss";
 
 export interface PanelProps {
-  circlesList?: Circle[] | undefined;
+  circlesList: Circle[] | undefined;
   setCurrentCircle: (circle: Circle) => void;
 }
 
