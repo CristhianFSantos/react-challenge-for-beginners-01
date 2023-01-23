@@ -1,0 +1,21 @@
+@import "../../../sass/colors";
+
+.custom-button {
+  font-family: "Roboto", sans-serif;
+  font-size: 0.92rem;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 10px 25px;
+  border-radius: 4px;
+  color: $general-color-white;
+  background-color: $button-primary-color-indigo;
+  box-shadow: 0px 5px 5px -1px rgba(0, 0, 0, 0.4);
+
+  &:hover {
+    background-color: $button-primary-color-hover-indigo;
+  }
+
+  &:active {
+    background-color: $button-primary-color-indigo;
+  }
+}
